@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="24443" started-at="2017-11-05T04:16:05Z" finished-at="2017-11-05T04:16:29Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="24443" started-at="2017-11-05T04:16:05Z" finished-at="2017-11-05T04:16:29Z">
+      <class name="TestCases.Logintest">
+        <test-method status="PASS" signature="openapp()[pri:0, instance:TestCases.Logintest@675d3402]" name="openapp" is-config="true" duration-ms="18418" started-at="2017-11-05T09:46:05Z" finished-at="2017-11-05T09:46:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openapp -->
+        <test-method status="PASS" signature="loginapp()[pri:0, instance:TestCases.Logintest@675d3402]" name="loginapp" duration-ms="5983" started-at="2017-11-05T09:46:23Z" finished-at="2017-11-05T09:46:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginapp -->
+      </class> <!-- TestCases.Logintest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
